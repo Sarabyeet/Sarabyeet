@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Sarabjeet Singh Hora @Sarabyeet
-- 👀 I’m interested in Computer science, making games, weightlighting and photography.
+- 👀 I’m interested in Computer science, making games, weightlighting, drawing and photography.
 - 🌱 I’m currently learning Java, Andriod and DSA.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Open source Projects.
+- 📫 Reach out to me on Twitter: @Sarabyeet
 
-<!---
-Sarabyeet/Sarabyeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
